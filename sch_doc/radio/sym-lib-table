@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name ay-3-8912)(type Legacy)(uri ${KIPRJMOD}/ay-3-8912.lib)(options "")(descr ""))
+  (lib (name aydongle-rescue)(type Legacy)(uri ${KIPRJMOD}/aydongle-rescue.lib)(options "")(descr ""))
+  (lib (name aydongle)(type Legacy)(uri ${KIPRJMOD}/aydongle.lib)(options "")(descr ""))
+  (lib (name radio-rescue)(type Legacy)(uri ${KIPRJMOD}/radio-rescue.lib)(options "")(descr ""))
+  (lib (name radio)(type Legacy)(uri ${KIPRJMOD}/radio.lib)(options "")(descr ""))
+  (lib (name tda)(type Legacy)(uri ${KIPRJMOD}/tda.lib)(options "")(descr ""))
+)

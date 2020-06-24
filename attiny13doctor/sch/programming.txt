@@ -1,0 +1,6 @@
+VCC +5V
+GND
+MOSI
+RST
+SCK
+MISO
